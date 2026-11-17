@@ -23,4 +23,4 @@ El valor debe coincidir exactamente con el de la tabla.
 
 - El instalador **no tiene firma digital**; Windows SmartScreen puede mostrar un aviso. Instálalo sólo cuando el responsable de la boutique lo indique.
 - Esta versión incluye los iconos Lucide y los campos de escaneo mejorados.
-- La instalación no debe hacerse en horario de venta ni antes del Fin de día.
+- Instala sólo después del Fin de día, sin ventas en curso y con el responsable presente.
